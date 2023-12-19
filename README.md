@@ -21,9 +21,3 @@ Additional Tool For Windows
 ## IntelliJ Plugins
 
 - [Go Linter](https://plugins.jetbrains.com/plugin/12496-go-linter)
-
-## Contributing
-
-- Fork and clone [golangci-lint-example](https://github.com/Vishal1297/golangci-lint-example) repository
-
-    git clone https://github.com/Vishal1297/golangci-lint-example.git
