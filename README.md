@@ -1,4 +1,4 @@
-# golangci-lint-example
+# golangci-lint analyze linters for projects
 A repository having golangci linter example using GitHub Actions or Docker
 
 ### Prerequisites
